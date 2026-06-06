@@ -1,11 +1,11 @@
 # Đưa portfolio lên online
 
-Website này là site tĩnh, chỉ cần upload toàn bộ thư mục `portfolio-cns-le-gia-bao`.
+Website này là site tĩnh, chỉ cần upload toàn bộ thư mục `portfolio_phamhonglamnhi`.
 
 ## Cách nhanh nhất: Netlify Drop
 
 1. Vào https://app.netlify.com/drop
-2. Kéo thả thư mục `portfolio-cns-le-gia-bao` hoặc file ZIP lên trang.
+2. Kéo thả thư mục `portfolio_phamhonglamnhi` hoặc file ZIP lên trang.
 3. Netlify sẽ tạo link công khai dạng `https://ten-site.netlify.app`.
 
 ## Cách ổn định hơn: GitHub Pages
